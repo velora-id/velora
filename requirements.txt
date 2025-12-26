@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+firebase-admin
+slowapi
+openai
+requests
+gunicorn
+pytest
+pytest-cov
+pytest-mock
+starlette==0.37.2
